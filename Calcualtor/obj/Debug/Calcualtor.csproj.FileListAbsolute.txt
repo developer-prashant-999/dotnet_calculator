@@ -1,0 +1,11 @@
+F:\asp dotnet\Calcualtor\Calcualtor\bin\Debug\Calcualtor.exe.config
+F:\asp dotnet\Calcualtor\Calcualtor\bin\Debug\Calcualtor.exe
+F:\asp dotnet\Calcualtor\Calcualtor\bin\Debug\Calcualtor.pdb
+F:\asp dotnet\Calcualtor\Calcualtor\obj\Debug\Calcualtor.csproj.AssemblyReference.cache
+F:\asp dotnet\Calcualtor\Calcualtor\obj\Debug\Calcualtor.csproj.SuggestedBindingRedirects.cache
+F:\asp dotnet\Calcualtor\Calcualtor\obj\Debug\Calcualtor.Form1.resources
+F:\asp dotnet\Calcualtor\Calcualtor\obj\Debug\Calcualtor.Properties.Resources.resources
+F:\asp dotnet\Calcualtor\Calcualtor\obj\Debug\Calcualtor.csproj.GenerateResource.cache
+F:\asp dotnet\Calcualtor\Calcualtor\obj\Debug\Calcualtor.csproj.CoreCompileInputs.cache
+F:\asp dotnet\Calcualtor\Calcualtor\obj\Debug\Calcualtor.exe
+F:\asp dotnet\Calcualtor\Calcualtor\obj\Debug\Calcualtor.pdb
